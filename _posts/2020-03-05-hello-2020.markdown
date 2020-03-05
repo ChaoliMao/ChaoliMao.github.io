@@ -1,0 +1,27 @@
+---
+layout:     post
+title:      "Hello 2020"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2020-03-05 21:37:00
+author:     "Hux"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - 生活
+    - Meta
+---
+
+> “Yeah It's on. ”
+
+毛超利 的 Blog 就这么开通了，感谢大神黄玄。
+
+从2020开始，毛超利可以在这里记录自己的学习总结了。
+
+慢慢来，虚心学习，开启个人Blog定制之旅。
+
+<p id = "build"></p>
+
+## 正文
+
+
+
