@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: mao_chaoli@zju.edu.cn
 description: "关于这个世界一切神奇好玩的 | 毛超利，CFD PhD，Algorithm Engineer | 这里是 @Chaoli 超利的个人博客，与你一起发现更大的世界。"
 keyword: "毛超利，CFD，数学，计算机，编程"
-url: "https://ChaoliMao.githu.io"              # your host, for absolute URL
+url: "https://chaolimao.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
